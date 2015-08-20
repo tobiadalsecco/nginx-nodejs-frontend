@@ -1,6 +1,6 @@
 FROM nginx
 
-MANTAINER Tobia Dalsecco <tobia.dalsecco@gmail.com>
+MAINTAINER Tobia Dalsecco <tobia.dalsecco@gmail.com>
 
 RUN mkdir /data
 
